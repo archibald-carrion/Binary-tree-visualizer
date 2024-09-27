@@ -2,8 +2,10 @@
   "name": "frontend_electron_binary_tree_visualizer",
   "version": "1.0.0",
   "description": "Binary tree visualizer desktop application",
-  "main": "src/main.ts",
+  "main": "dist/main.js",
   "scripts": {
+    "start": "npm run build && electron .",
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
