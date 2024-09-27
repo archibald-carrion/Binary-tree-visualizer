@@ -2,7 +2,7 @@
   "name": "frontend_electron_binary_tree_visualizer",
   "version": "1.0.0",
   "description": "Binary tree visualizer desktop application",
-  "main": "main.js",
+  "main": "src/main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
