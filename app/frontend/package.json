@@ -1,0 +1,30 @@
+{
+  "name": "frontend_electron_binary_tree_visualizer",
+  "version": "1.0.0",
+  "description": "Binary tree visualizer desktop application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archibald-carrion/Binary-tree-visualizer.git"
+  },
+  "keywords": [
+    "Computer",
+    "science",
+    "desktop",
+    "application",
+    "to",
+    "easily",
+    "visualize",
+    "binary",
+    "trees"
+  ],
+  "author": "Archibald Emmanuel Carrion Claeys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archibald-carrion/Binary-tree-visualizer/issues"
+  },
+  "homepage": "https://github.com/archibald-carrion/Binary-tree-visualizer#readme"
+}
