@@ -26,5 +26,11 @@
   "bugs": {
     "url": "https://github.com/archibald-carrion/Binary-tree-visualizer/issues"
   },
-  "homepage": "https://github.com/archibald-carrion/Binary-tree-visualizer#readme"
+  "homepage": "https://github.com/archibald-carrion/Binary-tree-visualizer#readme",
+  "devDependencies": {
+    "@types/node": "^22.7.3",
+    "electron": "^32.1.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
 }
