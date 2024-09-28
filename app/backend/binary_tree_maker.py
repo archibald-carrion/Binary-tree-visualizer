@@ -9,7 +9,7 @@ Original file is located at
 Install dependencies
 """
 
-pip install schemdraw
+
 
 # -*- coding: utf-8 -*-
 """Untitled0.ipynb
