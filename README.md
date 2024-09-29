@@ -11,3 +11,6 @@ Currently the application frontend can be run by executing the following command
 ```bash
 npm start
 ```
+
+## Resources used
+- [Medium article](https://medium.com/@athicharttangpong/drawing-a-binary-tree-with-python-be8c68872083)
